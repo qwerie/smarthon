@@ -1,2 +1,5 @@
 # smarthon
-Restaurants AI recommendation and review web site
+Restaurants AI recommendation and review web site [incomplete status]
+
+
+- Failed to combine front and algorithm. 
