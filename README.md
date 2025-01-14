@@ -2,8 +2,9 @@
 Restaurants AI recommendation and review web site [incomplete status]
 
 
-- Failed to combine front and algorithm. 
 
+
+### 웹 사이트 디자인
 
 ![image](https://github.com/qwerie/smarthon/assets/111882913/bd81bff2-6726-4659-97b0-0d9c96164863)
 
